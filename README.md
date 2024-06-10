@@ -1,4 +1,1 @@
-- Hello I'm RelloJXScott/Tyrell Scott an programmer, CEO and Founder of Foundation Scott and the creator of Scott RPG and Ninja Cat etc.
-
-- Visit Foundation Scott below:
-- foundation-scott.vercel.app
+# Welcome to Foundation Scott, a game production company. We were founded by Tyrell Jaquan Xavier Scott, who is our current CEO. Foundation Scott sponsors Scott Productions, a child branch that makes text-based, 2D, and general-purpose products. We also sponsor Jucify Studios, which creates Roblox games. We look forward to your continued service!
